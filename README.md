@@ -1,0 +1,3 @@
+the code is for python users only..
+its a very basic code for calculator usinf if else and input , operations .
+for more projects follow my profile...
